@@ -15,4 +15,4 @@
 
 **Upon completion, the script generates an HTML file.** If an old HTML file exists, it is deleted before creating the new one.
 
-**Would you like me to provide the Python code for this script?**
+
